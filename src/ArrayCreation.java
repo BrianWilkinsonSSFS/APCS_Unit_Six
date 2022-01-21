@@ -2,6 +2,7 @@ public class ArrayCreation {
 
     public static double getAverage(double[] numbers) {
 
+
        return 0.0; // Make sure to update this line. It is a temporary placeholder to avoid an error.
     }
 
